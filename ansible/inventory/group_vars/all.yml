@@ -1,0 +1,4 @@
+---
+ntp__timezone: 'Etc/UTC'
+nullmailer__relayhost: 'tasks.{{ ansible_domain }}'
+

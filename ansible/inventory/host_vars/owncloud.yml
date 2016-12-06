@@ -1,0 +1,6 @@
+---
+owncloud__auto_security_updates_enabled: True
+owncloud__fqdn: 'owncloud.{{ owncloud__domain }}'
+owncloud__upload_size: '16G'
+owncloud__app_documents_enabled: True
+owncloud__app_documents_libreoffice_enabled: False
